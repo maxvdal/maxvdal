@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxvdal
 - 👀 I’m interested in web development and applications.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Spring.
 
 <!---
 maxvdal/maxvdal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
